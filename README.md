@@ -51,7 +51,7 @@ The system uses a new plant disease dataset obtained from Kaggle. The dataset in
 Model Training
 The machine learning model used for disease detection is trained on the Kaggle dataset. If you wish to retrain the model or use a different dataset, refer to the train_model.ipynb notebook for guidance.
 
-##Contributors
+## Contributors
 - Abhinandan Sharma
  - Rohan Gulati
 
