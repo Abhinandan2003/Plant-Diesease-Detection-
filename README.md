@@ -54,6 +54,7 @@ The machine learning model used for disease detection is trained on the Kaggle d
 ## Contributors
 - Abhinandan Sharma
  - Rohan Gulati
+ - Anirudh Bansal
 
 Acknowledgments
 The Kaggle community for providing the plant disease dataset.
